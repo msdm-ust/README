@@ -34,4 +34,4 @@ Member privileges and repository read/ write permission are shown below. For rep
 | Repository Team Member | R/W | R/W (for the repository belongs to)|
 | Organization Member | R/W | R |
  
-# Useful repositories
+# References and useful repositories
